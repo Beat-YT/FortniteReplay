@@ -65,7 +65,7 @@ If you have some replay files feel free to make a pull request :)
 | --------------- | -------------- |
 | 9.00 | |       
 | 9.01 | |
-| 9.10 | |      
+| 9.10 | [Download](https://github.com/Beat-YT/FortniteReplay/raw/main/replay/REPLAY9.10.replay) |      
 | 9.20 | | 
 | 9.21 | | 
 | 9.30 | |
