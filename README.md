@@ -139,5 +139,8 @@ If you have some replay files feel free to make a pull request :)
 # Event
 | version | Event | Replay |
 | ----------------- | -------------- | -------------- |
-| 8.51 | | [test](https://google.com) |
-| 15.10 | | |
+| 8.51 | Unvaulting Event |  [Download](https://mega.nz/file/Mig13YxD#j5Yj0FaTi5E5U6SIRfa5JKc_ruDHw2yU59K1tLhUD1g) |
+| 9.41 | Final Showdown |  [Download](https://mega.nz/file/ku4XwaYQ#FolRQPCdOgK80R6Cliqj-WvKRMV1qV2tkEZMjn2Vw7k)|
+| 10.40 | The End |  [Download](https://mega.nz/file/W0FCCC5S#qCtoE_56-9xepWyBz-lt9eWf0bXgV8zoLhUBQimF8rU)|
+| 12.41 | Travis Scott |  [Download](https://drive.google.com/uc?id=1dsL_Z8vjjI0zp2jLsRMa-Js2A5jGzPk5)|
+| 12.41 | The Device |  [Download](https://drive.google.com/uc?id=1UF1Mhb7B3UMuonBzu1mNYelkc4kwfjXc)|
